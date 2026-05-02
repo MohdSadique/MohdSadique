@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mohd Sadique Raheem Shaikh
+# Hi there 👋, I'm Mohd Sadique Shaikh
 
 🔍 **About Me**
 - 💻 Tech Lead with expertise in machine learning, AI, distributed systems, diagnostics, and cloud infrastructure.
